@@ -1,1 +1,5 @@
-JAVAEE examples and software with Tomcat
+JavaEE examples and software with Tomcat
+
+
+Server: tomcat 8
+
