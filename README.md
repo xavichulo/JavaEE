@@ -16,6 +16,7 @@ SO: Debian Jessie<br>
 	<li><a href=#HelloWorld>HelloWorld</a></li>
 	<li><a href=#FormServlet>FormServlet</a></li>
 	<li><a href=#Database>Database</a></li>
+	<li><a href="Configurations>Configurations</a></li>
 </ul>
 
 
@@ -41,5 +42,12 @@ SO: Debian Jessie<br>
 <p>Created a lib for faster program.</p>
 <br><br>
 
+
+<h3 id="Configurations">Configurations</h3>
+<br>
+<p>If you need help with Tomcat, you visit</p> 
+<a href="http://stackoverflow.com/questions/24456446/javax-servlet-cannot-be-resolved-to-a-type">stackoverflow.com</a>
+
+<br><br>
 
 
