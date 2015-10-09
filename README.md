@@ -3,7 +3,7 @@ JavaEE examples and software with Tomcat
 <br><br>
 <h2>Repository with Java servlets and JSP</h2>
 <br>
-<h2><Software</h2>
+<h2>Software</h2>
 
 IDE: Eclipse Mars<br>
 Server: tomcat 8<br>
