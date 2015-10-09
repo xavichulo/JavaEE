@@ -16,7 +16,7 @@ SO: Debian Jessie<br>
 	<li><a href=#HelloWorld>HelloWorld</a></li>
 	<li><a href=#FormServlet>FormServlet</a></li>
 	<li><a href=#Database>Database</a></li>
-	<li><a href="Configurations>Configurations</a></li>
+	<li><a href="#Configurations>Configurations</a></li>
 </ul>
 
 
