@@ -5,8 +5,8 @@ JavaEE examples and software with Tomcat
 <br>
 <h2><Software</h2>
 
-IDE: Eclipse Mars
-Server: tomcat 8
+IDE: Eclipse Mars<br>
+Server: tomcat 8<br>
 SO: Debian Jessie
 
 <br>

@@ -1,0 +1,14 @@
+package core;
+
+public class Pruebas {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		ConnectDatabase db = new ConnectDatabase();
+		String table_name = "users";
+		db.getValues(table_name);
+
+	}
+
+}
