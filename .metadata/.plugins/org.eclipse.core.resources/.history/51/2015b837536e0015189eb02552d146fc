@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<!-- Action = ServletName -->
+<form method="post" action="RecuperacionUsuario">
+	<label>Input Username:</label>
+	<input type="text" name="usuario" size="20"><br>
+	<label>Input password:</label>
+	<input type="password" name="clave" size="20"><br>
+	<input type="submit" value="confirmar">
+</form>
+
+</body>
+</html>
