@@ -5,16 +5,16 @@ JavaEE examples and software with Tomcat
 <br>
 <h2><Software</h2>
 
-IDE: Eclipse Mars
-Server: tomcat 8
-SO: Debian Jessie
+IDE: Eclipse Mars<br>
+Server: tomcat 8<br>
+SO: Debian Jessie<br>
 
 <br>
 
 <h3>Index</h3>
 <ul>
 	<li><a href=#HelloWorld>HelloWorld</a></li>
-	<li><a href=#FormServlet>FormServlet</a><li>
+	<li><a href=#FormServlet>FormServlet</a></li>
 </ul>
 
 
