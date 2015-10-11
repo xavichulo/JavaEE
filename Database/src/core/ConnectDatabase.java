@@ -71,6 +71,11 @@ public class ConnectDatabase {
 	public void setConexion(Connection conexion) {
 		this.conexion = conexion;
 	}
+	public String toString(){
+		String res="User:"+getUser()+"\nPass:"+this.getPassword()+"\nURL:"+this.getUrl()+"\nServer:"+this.getServer();
+		res= res+"\nDB:"+this.getDb()+"\nConexion"+this.getConexion();
+		return res;
+	}
 
 
 	/**
