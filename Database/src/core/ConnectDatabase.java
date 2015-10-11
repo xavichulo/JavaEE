@@ -71,6 +71,8 @@ public class ConnectDatabase {
 	public void setConexion(Connection conexion) {
 		this.conexion = conexion;
 	}
+	
+	//Override method toString
 	public String toString(){
 		String res="User:"+getUser()+"\nPass:"+this.getPassword()+"\nURL:"+this.getUrl()+"\nServer:"+this.getServer();
 		res= res+"\nDB:"+this.getDb()+"\nConexion"+this.getConexion();
@@ -79,25 +81,38 @@ public class ConnectDatabase {
 
 
 	/**
-	 * Constructor
+	 * Constructor default
 	 */
 	public ConnectDatabase() {
 		this.user = "vagrant";
 		this.password = "vagrant";
 		this.db = "vagrant";
 		this.server = "192.168.56.101";
-		this.url = "jdbc:mysql://" + server + "/" + db;
+		this.url = "jdbc:mysql://" + server + ":3306/" + db;
 		conexion = this.GetConnection();
 	}
-
+	
+	/**
+	 * Constructor with parameters
+	 * @param server
+	 * @param user
+	 * @param password
+	 * @param db
+	 * @param url
+	 */
 	public ConnectDatabase(String server, String user, String password, String db, String url) {
 		this.server = server;
 		this.user = user;
 		this.password = password;
 		this.db = db;
-		this.url = "jdbc:mysql://" + server + "/" + db;
+		this.url = "jdbc:mysql://" + server + ":3306/" + db;
 	}
 
+	/**
+	 * This method return connection Database.
+	 * @return conexion
+	 * 
+	 */
 	public Connection GetConnection() {
 		// Connection conexion=null;
 		try {
@@ -124,10 +139,7 @@ public class ConnectDatabase {
 		}
 		return conexion;
 	}
-
 	public void disconnect() throws SQLException {
 		conexion.close();
-
 	}
-
 }
