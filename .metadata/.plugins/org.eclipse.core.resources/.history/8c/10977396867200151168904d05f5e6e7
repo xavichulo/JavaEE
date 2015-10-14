@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="../intranet/css/style1.css">
+	<title>User Logged</title>
+</head>
+<body>
+<ul>
+	<li>Search</li>
+	<li>About</li>
+	<li>Exit</li>
+</ul>
+	<h1>User is logged correct!!!</h1>
+	<p>Thank you for visit us.</p>
+</body>
+</html>

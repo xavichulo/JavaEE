@@ -9,4 +9,6 @@
 <fullyQualifiedTypeName name="java.io.PrintWriter"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpSession"/>
 <fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="database.ConnectDB"/>
+<fullyQualifiedTypeName name="users.User"/>
 </qualifiedTypeNameHistroy>

@@ -1,0 +1,23 @@
+/*
+	author:  jafamo
+	
+*/
+
+ body{
+
+        margin: 0;  
+        padding: 0; 
+        border: 0;  
+        outline: 0; 
+        font-size: 100%;
+        vertical-align: top;
+        background: transparent; 
+        width: 100%;
+        color: #333; 
+        font-family: Verdana, Tahoma, Geneva, sans-serif; 
+        font-size: 80.5%; 
+        line-height: 1.7em; 
+        text-align: center;
+        }
+
+

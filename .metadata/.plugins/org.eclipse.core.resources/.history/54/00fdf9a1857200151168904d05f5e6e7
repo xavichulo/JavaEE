@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="../css/style1.css">
+	<title>User Logged</title>
+</head>
+<body>
+	<h1>User is logged correct!!!</h1>
+	<p>Thank you for visit us.</p>
+</body>
+</html>

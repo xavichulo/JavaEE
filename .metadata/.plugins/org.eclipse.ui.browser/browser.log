@@ -984,3 +984,35 @@ Oct 14, 2015 10:19:37.92 Error: No running window found
 Oct 14, 2015 10:19:37.96 
 Oct 14, 2015 10:19:37.96 (process:10839): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
 Oct 14, 2015 10:19:43.16 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 14, 2015 10:50:24.27 
+Oct 14, 2015 10:50:24.27 (process:11330): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 10:50:24.31 Error: No running window found
+Oct 14, 2015 10:50:24.35 
+Oct 14, 2015 10:50:24.35 (process:11337): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 10:50:29.51 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 14, 2015 10:50:52.40 
+Oct 14, 2015 10:50:52.40 (process:11382): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 10:50:52.43 Error: No running window found
+Oct 14, 2015 10:50:52.47 
+Oct 14, 2015 10:50:52.47 (process:11388): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 10:50:57.67 Gtk-Message: Failed to load module "topmenu-gtk-module"
+
+Oct 14, 2015 15:35:28.69 NEW SESSION
+Oct 14, 2015 15:35:28.69 
+Oct 14, 2015 15:35:28.69 (process:13186): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 15:35:28.82 Error: No running window found
+Oct 14, 2015 15:35:28.91 
+Oct 14, 2015 15:35:28.91 (process:13193): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 15:35:34.14 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 14, 2015 15:56:25.68 
+Oct 14, 2015 15:56:25.68 (process:13954): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 15:56:25.73 Error: No running window found
+Oct 14, 2015 15:56:25.76 
+Oct 14, 2015 15:56:25.76 (process:13962): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 15:56:31.02 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 14, 2015 16:07:59.56 
+Oct 14, 2015 16:07:59.56 (process:14250): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 16:07:59.63 Error: No running window found
+Oct 14, 2015 16:07:59.66 
+Oct 14, 2015 16:07:59.66 (process:14257): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 16:08:04.83 Gtk-Message: Failed to load module "topmenu-gtk-module"

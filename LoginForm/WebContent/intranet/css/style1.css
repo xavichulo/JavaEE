@@ -1,0 +1,21 @@
+/*
+	author:  jafamo
+	
+*/
+
+ body{
+        margin: 0;  padding: 0; border: 0;  outline: 0; font-size: 100%; vertical-align: top;
+        background: transparent; width: 100%; color: #333; 
+        font-family: Verdana, Tahoma, Geneva, sans-serif; font-size: 80.5%; line-height: 1.7em; 
+        text-align: center;
+}
+
+ul#menu li{ width: 100%; padding: 0; margin: 0; list-style: none; display: inline; }
+
+
+#cabecera           { margin: 0 auto; width: 100%; height:30px; background: #98bf21; }
+#contenido-cabecera { width: 100%; margin: 0 auto; }
+
+h1 {   font-size: 2em; line-height: 1em;}
+h2 {   font-size: 1.3em; line-height: 1em; margin-top: 10px;}
+

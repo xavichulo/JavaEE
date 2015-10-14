@@ -44,7 +44,7 @@ public class LoginForm extends HttpServlet {
 		String query2 = "SELECT name,password FROM users WHERE name ='"+ u +"' AND password='"+ p+"'";
 		
 		//if user and password is valid.
-		response.sendRedirect("userLogged.html");
+		response.sendRedirect("intranet/index.html");
 
 	}
 
