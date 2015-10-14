@@ -1,0 +1,986 @@
+
+Oct 10, 2015 08:40:09.05 NEW SESSION
+Oct 10, 2015 08:40:09.05 
+Oct 10, 2015 08:40:09.05 (process:6229): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:40:09.13 Error: No running window found
+Oct 10, 2015 08:40:09.30 
+Oct 10, 2015 08:40:09.30 (process:6237): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:40:15.51 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 10, 2015 08:40:40.15 
+Oct 10, 2015 08:40:40.15 (process:6324): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:40:40.17 Error: No running window found
+Oct 10, 2015 08:40:40.20 
+Oct 10, 2015 08:40:40.20 (process:6330): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:40:40.33 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 10, 2015 08:40:48.97 console.error: 
+Oct 10, 2015 08:40:48.97   [CustomizableUI]
+Oct 10, 2015 08:40:48.97   Custom widget with id loop-button does not return a valid node
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: stackwalker.cc:125: INFO: Couldn't load symbols for: /usr/lib/iceweasel/libxul.so|85CB36A9B5FD9886C14EB7CB5A5D19600
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b550000
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0xe2a986745aa6d300
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e430
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c540
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e430
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0xe2a986745aa6d300
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x1
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5416f33400
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e3a0
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e450
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c540
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e380
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e360
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5416f33400
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5416f33460
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0xfffc7f542230c780
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c558
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c558
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e440
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5424419920
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c558
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e320
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5438a53ae0
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c558
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c5a8
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e420
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0xfffc7f5438a53ae0
+Oct 10, 2015 08:40:50.31 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e3d0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c558
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e340
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5416f34c00
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5400000000
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5438a53ae0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0xe2a986745aa6d300
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c558
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e4d0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e870
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5416d44000
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e870
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c5a8
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e6b0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x3801c310
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5438a53ae0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c5a8
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e6b0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0xfffc7f5438a53ae0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e870
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c558
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e4c0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f542230c780
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0xe2a986745aa6d300
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x5618c102
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e4d0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e7a0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5416f33400
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e870
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c540
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e5c0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5416f34c00
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x5618c102
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x4aee8
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c558
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e790
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5438a689f0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0xe2a986745aa6d300
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e5a0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e550
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e870
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e5c0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c540
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e7a0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e7a0
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0xe2a986745aa6d300
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x100000000
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x1a986745aa6d300
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e501
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x5
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e730
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0xe2a986745aa6d300
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e69c
+Oct 10, 2015 08:40:50.32 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e8f8
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f541714c5c8
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e8a8
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c540
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c590
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f541d8e9559
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c5a0
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84f240
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f543801c310
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0xe2a986745aa6d300
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e8f8
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e6c0
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e870
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e8b0
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5400000050
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5416f33437
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e790
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f543801c310
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c558
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e880
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e8b8
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c560
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c578
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e700
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5416ec8de8
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e740
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0xfc7f542230c220
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e699
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e69a
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e69c
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e720
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c590
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84f280
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5424571e70
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84f260
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c5a8
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84ead0
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0xfffc7f542230c140
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84f220
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f543801cb20
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c590
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84f280
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5424571e70
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c558
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84eb20
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f542230c760
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c5d0
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c560
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e6a0
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c558
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e700
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x2
+Oct 10, 2015 08:40:50.33 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c5d0
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e890
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5422318d58
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f543a049020
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f541714c201
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84df70
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c558
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84eb20
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f542230c140
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e740
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f542230c740
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f541714cbc8
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e901
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f544b55c540
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f5435b52ac0
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f541714cbc8
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7ffd9c84e901
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0xe2a986745aa6d300
+Oct 10, 2015 08:40:50.34 2015-10-10 08:40:50: basic_code_modules.cc:88: INFO: No module at 0x7f541714c458
+Oct 10, 2015 08:40:59.17 1444462859175	Sync.LogManager	ERROR	Failed to cleanup logs: Error: OS.File has been shut down. Rejecting request to DirectoryIterator_prototype_next (resource://gre/modules/osfile/osfile_async_front.jsm:404) JS Stack trace: post/<@osfile_async_front.jsm:404:1 < TaskImpl_run@Task.jsm:314:40 < TaskImpl@Task.jsm:275:3 < createAsyncFunction/asyncFunction@Task.jsm:249:14 < Handler.prototype.process@Promise-backend.js:867:23 < this.PromiseWalker.walkerLoop@Promise-backend.js:746:7 < this.PromiseWalker.scheduleWalkerLoop/<@Promise-backend.js:688:37 < Spinner.prototype.observe@AsyncShutdown.jsm:464:9
+Oct 10, 2015 08:42:30.13 
+Oct 10, 2015 08:42:30.13 (process:6479): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:42:30.16 Error: No running window found
+Oct 10, 2015 08:42:30.20 
+Oct 10, 2015 08:42:30.20 (process:6486): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:42:30.30 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 10, 2015 08:42:37.01 console.error: 
+Oct 10, 2015 08:42:37.01   [CustomizableUI]
+Oct 10, 2015 08:42:37.01   Custom widget with id loop-button does not return a valid node
+Oct 10, 2015 08:42:39.23 2015-10-10 08:42:39: stackwalker.cc:125: INFO: Couldn't load symbols for: /usr/lib/iceweasel/libxul.so|85CB36A9B5FD9886C14EB7CB5A5D19600
+Oct 10, 2015 08:42:39.23 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.23 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c43b3a000
+Oct 10, 2015 08:42:39.23 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c414b37c0
+Oct 10, 2015 08:42:39.23 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.23 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.23 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x300000001
+Oct 10, 2015 08:42:39.23 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c43b34000
+Oct 10, 2015 08:42:39.23 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c43b37000
+Oct 10, 2015 08:42:39.23 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847ebc8
+Oct 10, 2015 08:42:39.23 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847ebc8
+Oct 10, 2015 08:42:39.23 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847eba0
+Oct 10, 2015 08:42:39.23 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x300750000
+Oct 10, 2015 08:42:39.23 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847eb98
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x800000000
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x730074006e006f
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: stackwalker.cc:125: INFO: Couldn't load symbols for: /usr/lib/x86_64-linux-gnu/libfontconfig.so.1|9DF4E3283B2A39C5F225DF5D20C082600
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c00000004
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c00000006
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847ec00
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x64006c00000006
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x72756e726f67616d
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7468616974666e67
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x6c61746e6c616f20
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x6e6b6f206d617468
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x72
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x72
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x6e23baaf96d01a00
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: stackwalker.cc:125: INFO: Couldn't load symbols for: /lib64/ld-linux-x86-64.so.2|08E7A8FA82C76DB141A876382A9547130
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305120
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847ec30
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x198847ec80
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x6e23baaf96d01a00
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c433977a0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c433977a0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x19
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847ede0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd88480508
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305210
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c433977a0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd88480508
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c433977a0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x1c0000001c
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x190000f030
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c423c1d80
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305238
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c00000020
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c00005101
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305210
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c433977a0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847ede0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x1c
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x19
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd88480508
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305120
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c423c1d80
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c433977a0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x1c
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847edbf
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847edbe
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847edbd
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847edc8
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd00000001
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c3ba2b880
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847eecd
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c57914cb8
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847edd8
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x8000000300000001
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x1c00000000
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c433977a0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c00006501
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x2b88
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847eec0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847eec0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c2b8861f8
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x5
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x6e23baaf96d01a00
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x2b8861f8
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305120
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c538a5540
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847f030
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305210
+Oct 10, 2015 08:42:39.24 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x19
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847ef70
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847f0d0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd88480508
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847efd0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c423c1d80
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305140
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x18
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x1
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c41d97c03
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: stackwalker.cc:125: INFO: Couldn't load symbols for: |
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x100000001
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x1c
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f0100000002
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: stackwalker.cc:125: INFO: Couldn't load symbols for: /usr/lib/iceweasel/libmozalloc.so|0B0FE5FA39FEC64A7A7A053EFFED00FD0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x18
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305120
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847ef60
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305140
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c51c0c9c0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305120
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c57914cb8
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305120
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847ef98
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x1001100000005
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x3f
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847ef98
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x62672d6e65
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c41d97c20
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0xf0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c4a288040
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847f068
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c51c0c9c0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c41d97c03
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x6e23baaf96d01a00
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c41ed6210
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c4a288040
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847f068
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847f078
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305120
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c41ed6210
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c41ed6210
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0xfffc7f2c493db220
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c41d97c20
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c3ad950b0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0xfffc7f2c5152b280
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c51c0c9c0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x402aaaaaaaaaaaab
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0xe00002bc00000000
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c510000c0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x6e23baaf96d01a00
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0xffffffffffffffff
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c41be6ca0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c41d97c20
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c41be6ca0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c51c0c9c0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847f250
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847f350
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305268
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0xc
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c41ed6210
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305268
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x4
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x6e23baaf96d01a00
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847f350
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x4
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c3a8e6000
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c4190a8e8
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847f250
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x1100520
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x70
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x78
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x6e23baaf96d01a00
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd88480508
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305210
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847f350
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305120
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd88480508
+Oct 10, 2015 08:42:39.25 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305120
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42304000
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x6e23baaf96d01a00
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847f398
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847f398
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305120
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305210
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd88480508
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305120
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x1c8847f380
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7f2c42305120
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x1100520
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd884815c0
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847f340
+Oct 10, 2015 08:42:39.26 2015-10-10 08:42:39: basic_code_modules.cc:88: INFO: No module at 0x7ffd8847f498
+Oct 10, 2015 08:43:41.48 
+Oct 10, 2015 08:43:41.48 (process:6573): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:44:43.98 
+Oct 10, 2015 08:44:43.98 (process:6764): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:44:44.01 Error: No running window found
+Oct 10, 2015 08:44:44.05 
+Oct 10, 2015 08:44:44.05 (process:6770): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:44:49.20 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 10, 2015 08:47:20.95 
+Oct 10, 2015 08:47:20.95 (process:6931): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:47:20.98 Error: No running window found
+Oct 10, 2015 08:47:21.04 
+Oct 10, 2015 08:47:21.04 (process:6937): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:47:26.21 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 10, 2015 08:48:26.65 
+Oct 10, 2015 08:48:26.65 (process:7029): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:48:26.69 Error: No running window found
+Oct 10, 2015 08:48:26.75 
+Oct 10, 2015 08:48:26.75 (process:7035): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:48:31.93 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 10, 2015 08:51:55.66 
+Oct 10, 2015 08:51:55.66 (process:7097): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:51:55.81 Error: No running window found
+Oct 10, 2015 08:51:55.84 
+Oct 10, 2015 08:51:55.84 (process:7104): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:52:01.04 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 10, 2015 08:52:12.89 
+Oct 10, 2015 08:52:12.89 (process:7144): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:52:12.91 Error: No running window found
+Oct 10, 2015 08:52:12.95 
+Oct 10, 2015 08:52:12.95 (process:7151): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:52:18.13 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 10, 2015 08:53:13.78 
+Oct 10, 2015 08:53:13.78 (process:7250): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:53:13.83 Error: No running window found
+Oct 10, 2015 08:53:13.89 
+Oct 10, 2015 08:53:13.89 (process:7256): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 10, 2015 08:53:19.06 Gtk-Message: Failed to load module "topmenu-gtk-module"
+
+Oct 11, 2015 16:38:38.20 NEW SESSION
+Oct 11, 2015 16:38:38.20 
+Oct 11, 2015 16:38:38.25 (process:5772): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 16:38:38.25 Error: No running window found
+Oct 11, 2015 16:38:38.42 
+Oct 11, 2015 16:38:38.42 (process:5780): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 16:38:44.56 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 16:51:08.13 
+Oct 11, 2015 16:51:08.13 (process:6140): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 16:51:08.16 Error: No running window found
+Oct 11, 2015 16:51:08.20 
+Oct 11, 2015 16:51:08.21 (process:6147): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 16:51:13.37 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 16:54:24.98 
+Oct 11, 2015 16:54:24.98 (process:6259): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 16:54:25.01 Error: No running window found
+Oct 11, 2015 16:54:25.05 
+Oct 11, 2015 16:54:25.05 (process:6265): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 16:54:30.24 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 17:11:58.15 
+Oct 11, 2015 17:11:58.15 (process:6815): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:11:58.18 Error: No running window found
+Oct 11, 2015 17:11:58.21 
+Oct 11, 2015 17:11:58.21 (process:6822): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:12:03.40 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 17:14:46.46 
+Oct 11, 2015 17:14:46.46 (process:6932): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:14:46.49 Error: No running window found
+Oct 11, 2015 17:14:46.53 
+Oct 11, 2015 17:14:46.53 (process:6939): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:14:51.69 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 17:20:32.47 
+Oct 11, 2015 17:20:32.47 (process:7129): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:20:32.50 Error: No running window found
+Oct 11, 2015 17:20:32.53 
+Oct 11, 2015 17:20:32.53 (process:7136): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:20:37.69 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 17:30:33.12 
+Oct 11, 2015 17:30:33.12 (process:7374): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:30:33.31 Error: No running window found
+Oct 11, 2015 17:30:33.36 
+Oct 11, 2015 17:30:33.36 (process:7381): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:30:38.63 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 17:32:39.24 
+Oct 11, 2015 17:32:39.24 (process:7444): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:32:39.46 Error: No running window found
+Oct 11, 2015 17:32:39.49 
+Oct 11, 2015 17:32:39.49 (process:7452): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:32:44.67 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 17:38:17.62 
+Oct 11, 2015 17:38:17.62 (process:7807): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:38:17.66 Error: No running window found
+Oct 11, 2015 17:38:17.69 
+Oct 11, 2015 17:38:17.69 (process:7813): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:38:22.85 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 17:52:41.95 
+Oct 11, 2015 17:52:41.95 (process:8303): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:52:41.98 Error: No running window found
+Oct 11, 2015 17:52:42.02 
+Oct 11, 2015 17:52:42.02 (process:8309): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:52:47.19 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 17:53:44.03 
+Oct 11, 2015 17:53:44.03 (process:8418): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:53:44.06 Error: No running window found
+Oct 11, 2015 17:53:44.10 
+Oct 11, 2015 17:53:44.10 (process:8424): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:53:49.27 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 17:56:21.28 
+Oct 11, 2015 17:56:21.28 (process:8535): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:56:21.46 Error: No running window found
+Oct 11, 2015 17:56:21.57 
+Oct 11, 2015 17:56:21.57 (process:8543): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:56:26.76 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 17:59:12.27 
+Oct 11, 2015 17:59:12.27 (process:8670): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:59:12.30 Error: No running window found
+Oct 11, 2015 17:59:12.33 
+Oct 11, 2015 17:59:12.33 (process:8676): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 17:59:17.49 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 18:06:20.05 
+Oct 11, 2015 18:06:20.05 (process:8897): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 18:06:20.10 Error: No running window found
+Oct 11, 2015 18:06:20.32 
+Oct 11, 2015 18:06:20.32 (process:8904): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 18:06:25.31 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 18:11:42.21 
+Oct 11, 2015 18:11:42.21 (process:9090): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 18:11:42.24 Error: No running window found
+Oct 11, 2015 18:11:42.29 
+Oct 11, 2015 18:11:42.29 (process:9098): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 18:11:47.45 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 18:14:34.14 
+Oct 11, 2015 18:14:34.14 (process:9213): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 18:14:34.17 Error: No running window found
+Oct 11, 2015 18:14:34.20 
+Oct 11, 2015 18:14:34.20 (process:9220): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 18:14:34.31 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 18:14:44.04 console.error: 
+Oct 11, 2015 18:14:44.04   [CustomizableUI]
+Oct 11, 2015 18:14:44.04   Custom widget with id loop-button does not return a valid node
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: stackwalker.cc:125: INFO: Couldn't load symbols for: /lib/x86_64-linux-gnu/libz.so.1|5E4ACCADD5278FDE0BC3C6021B50BA2C0
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f2483a5bf30
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: stackwalker.cc:125: INFO: Couldn't load symbols for: /usr/lib/iceweasel/libxul.so|85CB36A9B5FD9886C14EB7CB5A5D19600
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab60f4
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f2483a5bf30
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f247dc6b008
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x373d
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f247dc68060
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab60f4
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f249237b200
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x3f
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f247dc6b008
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x373d00000000
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0xe344b94f8bddf300
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f24a9d5c540
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f247dcd9480
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab6160
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab6188
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f247ccae688
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab6600
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f249b691110
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f247ccae578
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab61e8
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f247dcd9480
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f247dc68060
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x373d
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab61e8
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab61e0
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f24a9d659c0
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f247dc6b008
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x50000373d
+Oct 11, 2015 18:14:44.58 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f24a9d5c558
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab6418
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f247ec6d920
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab61d0
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x1ab623c
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f247d007fb0
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f24a9d659c0
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f249b6bbce0
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7f247d007fb0
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0xe344b94f8bddf300
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab61c4
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x80040111
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab6310
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab630c
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab62a8
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab62a0
+Oct 11, 2015 18:14:44.59 2015-10-11 18:14:44: basic_code_modules.cc:88: INFO: No module at 0x7ffc9aab62a8
+Oct 11, 2015 18:21:49.66 
+Oct 11, 2015 18:21:49.66 (process:9507): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 18:25:50.72 
+Oct 11, 2015 18:25:50.72 (process:9705): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 18:27:04.64 
+Oct 11, 2015 18:27:04.64 (process:9793): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 18:29:57.64 
+Oct 11, 2015 18:29:57.64 (process:9870): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 18:31:46.40 
+Oct 11, 2015 18:31:46.40 (process:9962): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 18:31:46.42 Error: No running window found
+Oct 11, 2015 18:31:46.46 
+Oct 11, 2015 18:31:46.46 (process:9969): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 18:31:46.56 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 11, 2015 18:31:54.06 console.error: 
+Oct 11, 2015 18:31:54.06   [CustomizableUI]
+Oct 11, 2015 18:31:54.06   Custom widget with id loop-button does not return a valid node
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: stackwalker.cc:125: INFO: Couldn't load symbols for: /lib/x86_64-linux-gnu/libpthread.so.0|D407D87933FC35BAF385CCE1A8EFEBFA0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: stackwalker.cc:125: INFO: Couldn't load symbols for: /usr/lib/iceweasel/libnspr4.so|839886D6F64483F4892F53EB3FBA09AC0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x1
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4bf7600
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4bf7640
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0xffffffff
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4b5c558
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x29479a7a3f29a000
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4b5c540
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4bf8690
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x1
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4b5c540
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c1040
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c0f50
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c0ff0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4b8d4e0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: stackwalker.cc:125: INFO: Couldn't load symbols for: /usr/lib/iceweasel/libxul.so|85CB36A9B5FD9886C14EB7CB5A5D19600
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4bfb700
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4b5c540
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c24a0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c2410
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0xfde00000000
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa493611228
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c2408
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c1040
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa47b0af6a0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c1040
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4b5c558
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c0f90
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x3fd23d857b50
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c0fb8
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4b45b80
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: stackwalker.cc:125: INFO: Couldn't load symbols for: /lib/x86_64-linux-gnu/libc.so.6|E3793FF97CE44BDA7C433D02D321CE400
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa400000002
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x1000100000000
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4964929c0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x29479a7a3f29a000
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x1
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4b5c578
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c2518
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c1038
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4b5c558
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c2500
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa480b65a00
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4b5c558
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0xfff9000000000000
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4bfb700
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c0f50
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c0001
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4bfb700
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa400000015
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.44 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c0fd0
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c2168
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c2168
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4b5c540
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa47b0af6a0
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x200000000
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa474b6b000
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x11a1
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe4b109f92
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4b5c540
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0xfde00000000
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c228c
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c10ba
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x62696c2f7273752f
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x736165776563692f
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x73776f72622f6c65
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x2e696e6d6f2f7265
+Oct 11, 2015 18:31:55.45 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x616a
+Oct 11, 2015 18:31:55.46 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4b5c560
+Oct 11, 2015 18:31:55.46 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c10a0
+Oct 11, 2015 18:31:55.46 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa48088de98
+Oct 11, 2015 18:31:55.46 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.46 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4b5c570
+Oct 11, 2015 18:31:55.46 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4808b3000
+Oct 11, 2015 18:31:55.46 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 11, 2015 18:31:55.46 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x29479a7a3f29a000
+Oct 11, 2015 18:31:55.46 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4a4b5c558
+Oct 11, 2015 18:31:55.46 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7ffe309c11d0
+Oct 11, 2015 18:31:55.46 2015-10-11 18:31:55: basic_code_modules.cc:88: INFO: No module at 0x7fa4807707e0
+Oct 11, 2015 18:41:53.93 
+Oct 11, 2015 18:41:53.93 (process:10366): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 18:42:42.31 
+Oct 11, 2015 18:42:42.31 (process:10454): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 18:45:42.88 
+Oct 11, 2015 18:45:42.88 (process:10562): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 19:10:42.40 
+Oct 11, 2015 19:10:42.40 (process:11279): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 11, 2015 19:12:26.57 
+Oct 11, 2015 19:12:26.57 (process:11407): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+
+Oct 14, 2015 07:24:50.77 NEW SESSION
+Oct 14, 2015 07:24:50.77 
+Oct 14, 2015 07:24:50.82 (process:4341): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 07:24:50.92 Error: No running window found
+Oct 14, 2015 07:24:51.10 
+Oct 14, 2015 07:24:51.10 (process:4349): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 07:24:52.34 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 14, 2015 07:25:02.06 console.error: 
+Oct 14, 2015 07:25:02.06   [CustomizableUI]
+Oct 14, 2015 07:25:02.06   Custom widget with id loop-button does not return a valid node
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: stackwalker.cc:125: INFO: Couldn't load symbols for: /lib/x86_64-linux-gnu/libpthread.so.0|D407D87933FC35BAF385CCE1A8EFEBFA0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: stackwalker.cc:125: INFO: Couldn't load symbols for: /usr/lib/iceweasel/libnspr4.so|839886D6F64483F4892F53EB3FBA09AC0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x1
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8ddf7600
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8ddf7640
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0xffffffff
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c558
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x9b1b73d3a1963200
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c540
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8ddf8690
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x1
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c540
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f6b0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f5c0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f660
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd8d4e0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: stackwalker.cc:125: INFO: Couldn't load symbols for: /usr/lib/iceweasel/libxul.so|85CB36A9B5FD9886C14EB7CB5A5D19600
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8ddfb700
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c540
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc16710b10
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc16710a80
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd69218
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb7c809228
+Oct 14, 2015 07:25:02.76 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc16710a78
+Oct 14, 2015 07:25:02.77 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f6b0
+Oct 14, 2015 07:25:02.77 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb62c3d400
+Oct 14, 2015 07:25:02.77 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f6b0
+Oct 14, 2015 07:25:02.77 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c558
+Oct 14, 2015 07:25:02.77 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f600
+Oct 14, 2015 07:25:02.77 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x3fedb161ea00
+Oct 14, 2015 07:25:02.77 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.77 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f628
+Oct 14, 2015 07:25:02.77 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd45b80
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: stackwalker.cc:125: INFO: Couldn't load symbols for: /lib/x86_64-linux-gnu/libc.so.6|E3793FF97CE44BDA7C433D02D321CE400
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb00000002
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x1000100000000
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb7f6c59c0
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x9b1b73d3a1963200
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x1
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c578
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc16710b88
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f6a8
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c558
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc16710b70
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb766b6c40
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c558
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f650
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8ddfb700
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f5c0
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc16700001
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8ddfb700
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb00000015
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.78 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f640
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc167107d8
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc167107d8
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c540
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb62c3d400
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x200000000
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb73a8a000
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x11b4
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc84b283a6
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c540
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0xfde00000000
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc167108fc
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f72a
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x62696c2f7273752f
+Oct 14, 2015 07:25:02.79 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x736165776563692f
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x73776f72622f6c65
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x2e696e6d6f2f7265
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x12a05f200
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x6
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x3d5
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c570
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb749bc000
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8ddfa860
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c558
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f840
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb749a0380
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: stackwalker.cc:125: INFO: Couldn't load symbols for: |
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c558
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f770
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb6fdc67c0
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x9b1b73d3a1963200
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c540
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb749bcca0
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c540
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb74641528
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f900
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x1
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f840
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f820
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c558
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670fa60
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x1
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670fb30
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c558
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f820
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb749a0380
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f8e0
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c558
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f840
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb6fdc67c0
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c558
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f860
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb77100440
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: stackwalker.cc:125: INFO: Couldn't load symbols for: /lib64/ld-linux-x86-64.so.2|08E7A8FA82C76DB141A876382A9547130
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0xfff9000000000000
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x9b1b73d3a1963200
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x5
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x1
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb77100000
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb744a3cd8
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb7713ac00
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x1b
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x5
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x2
+Oct 14, 2015 07:25:02.81 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x4
+Oct 14, 2015 07:25:02.82 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x20
+Oct 14, 2015 07:25:02.83 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x1
+Oct 14, 2015 07:25:02.83 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb7713acc8
+Oct 14, 2015 07:25:02.83 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x53d093e0
+Oct 14, 2015 07:25:02.83 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb744a3c00
+Oct 14, 2015 07:25:02.83 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb744a3cd8
+Oct 14, 2015 07:25:02.83 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x20
+Oct 14, 2015 07:25:02.83 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x1c
+Oct 14, 2015 07:25:02.83 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c540
+Oct 14, 2015 07:25:02.83 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670fa80
+Oct 14, 2015 07:25:02.83 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb00000000
+Oct 14, 2015 07:25:02.83 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c540
+Oct 14, 2015 07:25:02.83 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c560
+Oct 14, 2015 07:25:02.83 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f9b0
+Oct 14, 2015 07:25:02.83 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb6f202718
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb744a3c00
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670ff68
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc167101d0
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f9d4
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x2
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670ff88
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670f9f4
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x2
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb00000000
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0xfffc7fdb6fdc67c0
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb8dd5c558
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x9b1b73d3a1963200
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb7c7dc680
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670fa80
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7ffc1670fb60
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x1
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb7c7dc670
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x9b1b73d3a1963200
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb7c7dc668
+Oct 14, 2015 07:25:02.84 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x2
+Oct 14, 2015 07:25:02.85 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:25:02.85 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x9b1b73d3a1963200
+Oct 14, 2015 07:25:02.85 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x7fdb674c3eb8
+Oct 14, 2015 07:25:02.85 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x2
+Oct 14, 2015 07:25:02.85 2015-10-14 07:25:02: basic_code_modules.cc:88: INFO: No module at 0x0
+Oct 14, 2015 07:28:01.51 Vector smash protection is enabled.
+Oct 14, 2015 07:32:34.61 
+Oct 14, 2015 07:32:34.62 (process:5063): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 07:38:06.08 
+Oct 14, 2015 07:38:06.08 (process:5390): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 07:40:37.49 
+Oct 14, 2015 07:40:37.49 (process:5493): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 07:44:04.31 
+Oct 14, 2015 07:44:04.31 (process:5675): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 07:45:49.35 
+Oct 14, 2015 07:45:49.35 (process:5790): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 07:46:25.73 
+Oct 14, 2015 07:46:25.73 (process:5868): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 07:47:15.26 
+Oct 14, 2015 07:47:15.26 (process:5998): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 07:50:40.00 
+Oct 14, 2015 07:50:40.00 (process:6103): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 07:52:10.38 
+Oct 14, 2015 07:52:10.38 (process:6190): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 08:29:33.01 
+Oct 14, 2015 08:29:33.01 (process:6953): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+
+Oct 14, 2015 08:47:25.88 NEW SESSION
+Oct 14, 2015 08:47:25.88 
+Oct 14, 2015 08:47:25.88 (process:8033): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 08:49:23.33 
+Oct 14, 2015 08:49:23.33 (process:8145): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+
+Oct 14, 2015 09:10:59.50 NEW SESSION
+Oct 14, 2015 09:10:59.50 
+Oct 14, 2015 09:10:59.50 (process:8780): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 09:10:59.79 Error: No running window found
+Oct 14, 2015 09:10:59.91 
+Oct 14, 2015 09:10:59.91 (process:8788): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 09:11:05.64 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 14, 2015 09:13:28.50 
+Oct 14, 2015 09:13:28.50 (process:8959): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 09:13:28.53 Error: No running window found
+Oct 14, 2015 09:13:28.56 
+Oct 14, 2015 09:13:28.56 (process:8967): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 09:13:33.73 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 14, 2015 09:18:17.00 
+Oct 14, 2015 09:18:17.00 (process:9133): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 09:18:17.07 Error: No running window found
+Oct 14, 2015 09:18:17.11 
+Oct 14, 2015 09:18:17.11 (process:9139): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 09:18:22.27 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 14, 2015 09:28:33.66 
+Oct 14, 2015 09:28:33.66 (process:9511): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 09:28:33.69 Error: No running window found
+Oct 14, 2015 09:28:33.73 
+Oct 14, 2015 09:28:33.73 (process:9518): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 09:28:38.89 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 14, 2015 09:29:52.18 
+Oct 14, 2015 09:29:52.18 (process:9650): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 09:29:52.21 Error: No running window found
+Oct 14, 2015 09:29:52.24 
+Oct 14, 2015 09:29:52.24 (process:9656): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 09:29:57.39 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 14, 2015 09:47:42.13 
+Oct 14, 2015 09:47:42.13 (process:10111): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 09:47:42.17 Error: No running window found
+Oct 14, 2015 09:47:42.21 
+Oct 14, 2015 09:47:42.21 (process:10118): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 09:47:47.36 Gtk-Message: Failed to load module "topmenu-gtk-module"
+Oct 14, 2015 10:19:37.88 
+Oct 14, 2015 10:19:37.88 (process:10832): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 10:19:37.92 Error: No running window found
+Oct 14, 2015 10:19:37.96 
+Oct 14, 2015 10:19:37.96 (process:10839): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+Oct 14, 2015 10:19:43.16 Gtk-Message: Failed to load module "topmenu-gtk-module"

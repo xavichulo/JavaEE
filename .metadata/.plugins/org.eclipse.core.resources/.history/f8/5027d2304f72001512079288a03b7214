@@ -1,0 +1,97 @@
+package database;
+
+import java.sql.Connection;
+
+public class ConnectDB {
+	
+	private String user;
+	private String password;
+	private String url;
+	private String db;
+	private Connection conexion = null;
+	private String server;
+
+
+	/**
+	 * Constructor default
+	 */
+	public ConnectDatabase() {
+		this.user = "vagrant";
+		this.password = "vagrant";
+		this.db = "vagrant";
+		this.server = "192.168.56.101";
+		this.url = "jdbc:mysql://" + server + ":3306/" + db;
+		conexion = this.GetConnection();
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	/**
+	 * Getter and setters
+	 */
+	
+	
+	public String getServer() {
+		return server;
+	}
+
+	public void setServer(String server) {
+		this.server = server;
+	}
+
+	public String getUser() {
+		return user;
+	}
+
+	public void setUser(String user) {
+		this.user = user;
+	}
+
+	public String getPassword() {
+		return password;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+
+	public String getUrl() {
+		return url;
+	}
+
+	public void setUrl(String url) {
+		this.url = url;
+	}
+
+	public String getDb() {
+		return db;
+	}
+
+	public void setDb(String db) {
+		this.db = db;
+	}
+
+	public Connection getConexion() {
+		return conexion;
+	}
+
+	public void setConexion(Connection conexion) {
+		this.conexion = conexion;
+	}
+	
+	
+	
+	
+	//Override method toString
+		public String toString(){
+			String res="User:"+getUser()+"\nPass:"+this.getPassword()+"\nURL:"+this.getUrl()+"\nServer:"+this.getServer();
+			res= res+"\nDB:"+this.getDb()+"\nConexion"+this.getConexion();
+			return res;
+		}
+	
+}

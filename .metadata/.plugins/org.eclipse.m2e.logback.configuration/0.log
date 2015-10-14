@@ -1,0 +1,7 @@
+2015-10-10 08:52:12,363 [main] INFO  org.eclipse.jetty.util.log - Logging initialized @1189553ms
+2015-10-10 08:52:12,631 [main] INFO  org.eclipse.jetty.server.Server - jetty-9.2.9.v20150224
+2015-10-10 08:52:12,738 [main] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@578deaa5{/wse,null,AVAILABLE}
+2015-10-10 08:52:12,773 [main] INFO  o.e.jetty.server.ServerConnector - Started ServerConnector@64fd968{HTTP/1.1}{0.0.0.0:38381}
+2015-10-10 08:52:12,774 [main] INFO  org.eclipse.jetty.server.Server - Started @1189968ms
+2015-10-10 08:55:17,886 [Framework stop] INFO  o.e.jetty.server.ServerConnector - Stopped ServerConnector@64fd968{HTTP/1.1}{0.0.0.0:0}
+2015-10-10 08:55:17,911 [Framework stop] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@578deaa5{/wse,null,UNAVAILABLE}

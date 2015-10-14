@@ -4,8 +4,12 @@
 	<item value="true" key="J2EE_EXPORT_SOURCE"/>
 	<list key="MRU_RUNTIME_STORE">
 		<item value="Apache Tomcat v8.0"/>
+		<item value="Apache Tomcat v8"/>
 	</list>
 	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="/home/jafamo/Desktop/LoginExample.war"/>
+		<item value="/home/jafamo/programming/server/centos/data/apache-tomcat-7.0.64/FormLogin.war"/>
+		<item value="/home/jafamo/programming/server/centos/data/apache-tomcat-7.0.64/webapps/LoginForm.war"/>
 		<item value="/home/jafamo/programming/server/centos/data/JavaEE/wars/FormServlet.war"/>
 		<item value="/opt/apache-tomcat-8.0.23/webapps/FormServlet.war"/>
 	</list>

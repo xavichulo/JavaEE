@@ -1,8 +1,4 @@
 INDEX VERSION 1.3+/home/jafamo/programming/server/centos/data/JavaEE/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-2056073220.index
-41089853.index
-1824542361.index
-2451414813.index
-3117680283.index
-3326340023.index
-330787105.index
+3194422235.index
+1643050886.index
+4171700887.index

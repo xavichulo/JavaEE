@@ -1,0 +1,16 @@
+package core;
+
+public class Tester {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//create conection
+		ConnectDatabase cd = new ConnectDatabase();
+		cd.toString();
+		cd.getConexion();
+		System.out.println();
+
+	}
+
+}
